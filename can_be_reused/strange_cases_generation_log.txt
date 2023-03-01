@@ -1,0 +1,1188 @@
+python call is find
+ --- converting 32 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 0, 0]
+--- Configuration added :   [1, 0, 0, 0, 0, 0]
+ --- converting 34 in base 2
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 1, 0]
+--- Configuration added :   [1, 0, 0, 0, 1, 0]
+ --- converting 36 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 1, 0, 0]
+--- Configuration added :   [1, 0, 0, 1, 0, 0]
+ --- converting 38 in base 2
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 1, 1, 0]
+--- Configuration added :   [1, 0, 0, 1, 1, 0]
+ --- converting 40 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 1, 0, 0, 0]
+--- Configuration added :   [1, 0, 1, 0, 0, 0]
+ --- converting (0, 33, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 33 in base 2
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 0, 1]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 0, 0, 0, 0, 1, 2, 2]
+ --- Converting  base Y number [0, 1, 0, 0, 0, 0, 1, 2, 2] to configuration notation
+ --- Result =  [1, 0, 0, 0, 0, 1, 2, 2]
+--- Retained value to add in file: [1, 0, 0, 0, 0, 1, 2, 2], indice :  (0, 33, 12)
+ --- converting (0, 33, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 33 in base 2
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 0, 1]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 0, 0, 0, 0, 1, 2, 2]
+ --- Converting  base Y number [0, 1, 0, 0, 0, 0, 1, 2, 2] to configuration notation
+ --- Result =  [1, 0, 0, 0, 0, 1, 2, 2]
+--- Retained value to add in file: [1, 0, 0, 0, 0, 1, 2, 2], indice :  (0, 33, 12)
+ --- converting (0, 33, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 33 in base 2
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 0, 1]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 0, 0, 0, 0, 1, 2, 2]
+ --- Converting  base Y number [0, 1, 0, 0, 0, 0, 1, 2, 2] to configuration notation
+ --- Result =  [1, 0, 0, 0, 0, 1, 2, 2]
+--- Retained value to add in file: [1, 0, 0, 0, 0, 1, 2, 2], indice :  (0, 33, 12)
+ --- converting (0, 34, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 34 in base 2
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 1, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 0, 0, 0, 1, 0, 2, 2]
+ --- Converting  base Y number [0, 1, 0, 0, 0, 1, 0, 2, 2] to configuration notation
+ --- Result =  [1, 0, 0, 0, 1, 0, 2, 2]
+--- Retained value to add in file: [1, 0, 0, 0, 1, 0, 2, 2], indice :  (0, 34, 12)
+ --- converting (0, 34, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 34 in base 2
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 1, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 0, 0, 0, 1, 0, 2, 2]
+ --- Converting  base Y number [0, 1, 0, 0, 0, 1, 0, 2, 2] to configuration notation
+ --- Result =  [1, 0, 0, 0, 1, 0, 2, 2]
+--- Retained value to add in file: [1, 0, 0, 0, 1, 0, 2, 2], indice :  (0, 34, 12)
+ --- converting (0, 34, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 34 in base 2
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 1, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 0, 0, 0, 1, 0, 2, 2]
+ --- Converting  base Y number [0, 1, 0, 0, 0, 1, 0, 2, 2] to configuration notation
+ --- Result =  [1, 0, 0, 0, 1, 0, 2, 2]
+--- Retained value to add in file: [1, 0, 0, 0, 1, 0, 2, 2], indice :  (0, 34, 12)
+ --- converting (0, 36, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 36 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 1, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 0, 0, 1, 0, 0, 2, 2]
+ --- Converting  base Y number [0, 1, 0, 0, 1, 0, 0, 2, 2] to configuration notation
+ --- Result =  [1, 0, 0, 1, 0, 0, 2, 2]
+--- Retained value to add in file: [1, 0, 0, 1, 0, 0, 2, 2], indice :  (0, 36, 12)
+ --- converting (0, 36, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 36 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 1, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 0, 0, 1, 0, 0, 2, 2]
+ --- Converting  base Y number [0, 1, 0, 0, 1, 0, 0, 2, 2] to configuration notation
+ --- Result =  [1, 0, 0, 1, 0, 0, 2, 2]
+--- Retained value to add in file: [1, 0, 0, 1, 0, 0, 2, 2], indice :  (0, 36, 12)
+ --- converting (0, 36, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 36 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 1, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 0, 0, 1, 0, 0, 2, 2]
+ --- Converting  base Y number [0, 1, 0, 0, 1, 0, 0, 2, 2] to configuration notation
+ --- Result =  [1, 0, 0, 1, 0, 0, 2, 2]
+--- Retained value to add in file: [1, 0, 0, 1, 0, 0, 2, 2], indice :  (0, 36, 12)
+ --- converting (0, 40, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 40 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 1, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 0, 1, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [0, 1, 0, 1, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [1, 0, 1, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [1, 0, 1, 0, 0, 0, 2, 2], indice :  (0, 40, 12)
+ --- converting (0, 40, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 40 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 1, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 0, 1, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [0, 1, 0, 1, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [1, 0, 1, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [1, 0, 1, 0, 0, 0, 2, 2], indice :  (0, 40, 12)
+ --- converting (0, 40, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 40 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 1, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 0, 1, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [0, 1, 0, 1, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [1, 0, 1, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [1, 0, 1, 0, 0, 0, 2, 2], indice :  (0, 40, 12)
+ --- converting (0, 48, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 48 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 1 to result
+ --- result  [1, 1, 0, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 1, 0, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [0, 1, 1, 0, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [1, 1, 0, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [1, 1, 0, 0, 0, 0, 2, 2], indice :  (0, 48, 12)
+ --- converting (0, 48, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 48 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 1 to result
+ --- result  [1, 1, 0, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 1, 0, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [0, 1, 1, 0, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [1, 1, 0, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [1, 1, 0, 0, 0, 0, 2, 2], indice :  (0, 48, 12)
+ --- converting (0, 48, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 0 in base 4
+ --- result  [0]
+ --- converting 48 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 1 to result
+ --- result  [1, 1, 0, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [0, 1, 1, 0, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [0, 1, 1, 0, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [1, 1, 0, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [1, 1, 0, 0, 0, 0, 2, 2], indice :  (0, 48, 12)
+ --- converting (1, 33, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 33 in base 2
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 0, 1]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 0, 0, 0, 0, 1, 2, 2]
+ --- Converting  base Y number [1, 1, 0, 0, 0, 0, 1, 2, 2] to configuration notation
+ --- Result =  [2, 0, 0, 0, 0, 2, 2, 2]
+--- Retained value to add in file: [2, 0, 0, 0, 0, 2, 2, 2], indice :  (1, 33, 12)
+ --- converting (1, 33, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 33 in base 2
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 0, 1]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 0, 0, 0, 0, 1, 2, 2]
+ --- Converting  base Y number [1, 1, 0, 0, 0, 0, 1, 2, 2] to configuration notation
+ --- Result =  [2, 0, 0, 0, 0, 2, 2, 2]
+--- Retained value to add in file: [2, 0, 0, 0, 0, 2, 2, 2], indice :  (1, 33, 12)
+ --- converting (1, 33, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 33 in base 2
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 0, 1]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 0, 0, 0, 0, 1, 2, 2]
+ --- Converting  base Y number [1, 1, 0, 0, 0, 0, 1, 2, 2] to configuration notation
+ --- Result =  [2, 0, 0, 0, 0, 2, 2, 2]
+--- Retained value to add in file: [2, 0, 0, 0, 0, 2, 2, 2], indice :  (1, 33, 12)
+ --- converting (1, 34, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 34 in base 2
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 1, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 0, 0, 0, 1, 0, 2, 2]
+ --- Converting  base Y number [1, 1, 0, 0, 0, 1, 0, 2, 2] to configuration notation
+ --- Result =  [2, 0, 0, 0, 2, 0, 2, 2]
+--- Retained value to add in file: [2, 0, 0, 0, 2, 0, 2, 2], indice :  (1, 34, 12)
+ --- converting (1, 34, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 34 in base 2
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 1, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 0, 0, 0, 1, 0, 2, 2]
+ --- Converting  base Y number [1, 1, 0, 0, 0, 1, 0, 2, 2] to configuration notation
+ --- Result =  [2, 0, 0, 0, 2, 0, 2, 2]
+--- Retained value to add in file: [2, 0, 0, 0, 2, 0, 2, 2], indice :  (1, 34, 12)
+ --- converting (1, 34, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 34 in base 2
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 1, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 0, 0, 0, 1, 0, 2, 2]
+ --- Converting  base Y number [1, 1, 0, 0, 0, 1, 0, 2, 2] to configuration notation
+ --- Result =  [2, 0, 0, 0, 2, 0, 2, 2]
+--- Retained value to add in file: [2, 0, 0, 0, 2, 0, 2, 2], indice :  (1, 34, 12)
+ --- converting (1, 36, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 36 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 1, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 0, 0, 1, 0, 0, 2, 2]
+ --- Converting  base Y number [1, 1, 0, 0, 1, 0, 0, 2, 2] to configuration notation
+ --- Result =  [2, 0, 0, 2, 0, 0, 2, 2]
+--- Retained value to add in file: [2, 0, 0, 2, 0, 0, 2, 2], indice :  (1, 36, 12)
+ --- converting (1, 36, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 36 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 1, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 0, 0, 1, 0, 0, 2, 2]
+ --- Converting  base Y number [1, 1, 0, 0, 1, 0, 0, 2, 2] to configuration notation
+ --- Result =  [2, 0, 0, 2, 0, 0, 2, 2]
+--- Retained value to add in file: [2, 0, 0, 2, 0, 0, 2, 2], indice :  (1, 36, 12)
+ --- converting (1, 36, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 36 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 1, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 0, 0, 1, 0, 0, 2, 2]
+ --- Converting  base Y number [1, 1, 0, 0, 1, 0, 0, 2, 2] to configuration notation
+ --- Result =  [2, 0, 0, 2, 0, 0, 2, 2]
+--- Retained value to add in file: [2, 0, 0, 2, 0, 0, 2, 2], indice :  (1, 36, 12)
+ --- converting (1, 40, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 40 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 1, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 0, 1, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [1, 1, 0, 1, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [2, 0, 2, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [2, 0, 2, 0, 0, 0, 2, 2], indice :  (1, 40, 12)
+ --- converting (1, 40, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 40 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 1, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 0, 1, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [1, 1, 0, 1, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [2, 0, 2, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [2, 0, 2, 0, 0, 0, 2, 2], indice :  (1, 40, 12)
+ --- converting (1, 40, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 40 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 1, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 0, 1, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [1, 1, 0, 1, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [2, 0, 2, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [2, 0, 2, 0, 0, 0, 2, 2], indice :  (1, 40, 12)
+ --- converting (1, 48, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 48 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 1 to result
+ --- result  [1, 1, 0, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 1, 0, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [1, 1, 1, 0, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [2, 2, 0, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [2, 2, 0, 0, 0, 0, 2, 2], indice :  (1, 48, 12)
+ --- converting (1, 48, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 48 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 1 to result
+ --- result  [1, 1, 0, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 1, 0, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [1, 1, 1, 0, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [2, 2, 0, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [2, 2, 0, 0, 0, 0, 2, 2], indice :  (1, 48, 12)
+ --- converting (1, 48, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 1 in base 4
+ --- result  [1]
+ --- converting 48 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 1 to result
+ --- result  [1, 1, 0, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [1, 1, 1, 0, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [1, 1, 1, 0, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [2, 2, 0, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [2, 2, 0, 0, 0, 0, 2, 2], indice :  (1, 48, 12)
+ --- converting (2, 33, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 33 in base 2
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 0, 1]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 0, 0, 0, 0, 1, 2, 2]
+ --- Converting  base Y number [2, 1, 0, 0, 0, 0, 1, 2, 2] to configuration notation
+ --- Result =  [3, 0, 0, 0, 0, 3, 2, 2]
+--- Retained value to add in file: [3, 0, 0, 0, 0, 3, 2, 2], indice :  (2, 33, 12)
+ --- converting (2, 33, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 33 in base 2
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 0, 1]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 0, 0, 0, 0, 1, 2, 2]
+ --- Converting  base Y number [2, 1, 0, 0, 0, 0, 1, 2, 2] to configuration notation
+ --- Result =  [3, 0, 0, 0, 0, 3, 2, 2]
+--- Retained value to add in file: [3, 0, 0, 0, 0, 3, 2, 2], indice :  (2, 33, 12)
+ --- converting (2, 33, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 33 in base 2
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 0, 1]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 0, 0, 0, 0, 1, 2, 2]
+ --- Converting  base Y number [2, 1, 0, 0, 0, 0, 1, 2, 2] to configuration notation
+ --- Result =  [3, 0, 0, 0, 0, 3, 2, 2]
+--- Retained value to add in file: [3, 0, 0, 0, 0, 3, 2, 2], indice :  (2, 33, 12)
+ --- converting (2, 34, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 34 in base 2
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 1, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 0, 0, 0, 1, 0, 2, 2]
+ --- Converting  base Y number [2, 1, 0, 0, 0, 1, 0, 2, 2] to configuration notation
+ --- Result =  [3, 0, 0, 0, 3, 0, 2, 2]
+--- Retained value to add in file: [3, 0, 0, 0, 3, 0, 2, 2], indice :  (2, 34, 12)
+ --- converting (2, 34, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 34 in base 2
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 1, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 0, 0, 0, 1, 0, 2, 2]
+ --- Converting  base Y number [2, 1, 0, 0, 0, 1, 0, 2, 2] to configuration notation
+ --- Result =  [3, 0, 0, 0, 3, 0, 2, 2]
+--- Retained value to add in file: [3, 0, 0, 0, 3, 0, 2, 2], indice :  (2, 34, 12)
+ --- converting (2, 34, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 34 in base 2
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 1, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 0, 0, 0, 1, 0, 2, 2]
+ --- Converting  base Y number [2, 1, 0, 0, 0, 1, 0, 2, 2] to configuration notation
+ --- Result =  [3, 0, 0, 0, 3, 0, 2, 2]
+--- Retained value to add in file: [3, 0, 0, 0, 3, 0, 2, 2], indice :  (2, 34, 12)
+ --- converting (2, 36, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 36 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 1, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 0, 0, 1, 0, 0, 2, 2]
+ --- Converting  base Y number [2, 1, 0, 0, 1, 0, 0, 2, 2] to configuration notation
+ --- Result =  [3, 0, 0, 3, 0, 0, 2, 2]
+--- Retained value to add in file: [3, 0, 0, 3, 0, 0, 2, 2], indice :  (2, 36, 12)
+ --- converting (2, 36, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 36 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 1, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 0, 0, 1, 0, 0, 2, 2]
+ --- Converting  base Y number [2, 1, 0, 0, 1, 0, 0, 2, 2] to configuration notation
+ --- Result =  [3, 0, 0, 3, 0, 0, 2, 2]
+--- Retained value to add in file: [3, 0, 0, 3, 0, 0, 2, 2], indice :  (2, 36, 12)
+ --- converting (2, 36, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 36 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 1, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 0, 0, 1, 0, 0, 2, 2]
+ --- Converting  base Y number [2, 1, 0, 0, 1, 0, 0, 2, 2] to configuration notation
+ --- Result =  [3, 0, 0, 3, 0, 0, 2, 2]
+--- Retained value to add in file: [3, 0, 0, 3, 0, 0, 2, 2], indice :  (2, 36, 12)
+ --- converting (2, 40, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 40 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 1, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 0, 1, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [2, 1, 0, 1, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [3, 0, 3, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [3, 0, 3, 0, 0, 0, 2, 2], indice :  (2, 40, 12)
+ --- converting (2, 40, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 40 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 1, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 0, 1, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [2, 1, 0, 1, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [3, 0, 3, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [3, 0, 3, 0, 0, 0, 2, 2], indice :  (2, 40, 12)
+ --- converting (2, 40, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 40 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 1, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 0, 1, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [2, 1, 0, 1, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [3, 0, 3, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [3, 0, 3, 0, 0, 0, 2, 2], indice :  (2, 40, 12)
+ --- converting (2, 48, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 48 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 1 to result
+ --- result  [1, 1, 0, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 1, 0, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [2, 1, 1, 0, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [3, 3, 0, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [3, 3, 0, 0, 0, 0, 2, 2], indice :  (2, 48, 12)
+ --- converting (2, 48, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 48 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 1 to result
+ --- result  [1, 1, 0, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 1, 0, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [2, 1, 1, 0, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [3, 3, 0, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [3, 3, 0, 0, 0, 0, 2, 2], indice :  (2, 48, 12)
+ --- converting (2, 48, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 2 in base 4
+ --- result  [2]
+ --- converting 48 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 1 to result
+ --- result  [1, 1, 0, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [2, 1, 1, 0, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [2, 1, 1, 0, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [3, 3, 0, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [3, 3, 0, 0, 0, 0, 2, 2], indice :  (2, 48, 12)
+ --- converting (3, 33, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 33 in base 2
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 0, 1]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 0, 0, 0, 0, 1, 2, 2]
+ --- Converting  base Y number [3, 1, 0, 0, 0, 0, 1, 2, 2] to configuration notation
+ --- Result =  [4, 0, 0, 0, 0, 4, 2, 2]
+--- Retained value to add in file: [4, 0, 0, 0, 0, 4, 2, 2], indice :  (3, 33, 12)
+ --- converting (3, 33, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 33 in base 2
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 0, 1]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 0, 0, 0, 0, 1, 2, 2]
+ --- Converting  base Y number [3, 1, 0, 0, 0, 0, 1, 2, 2] to configuration notation
+ --- Result =  [4, 0, 0, 0, 0, 4, 2, 2]
+--- Retained value to add in file: [4, 0, 0, 0, 0, 4, 2, 2], indice :  (3, 33, 12)
+ --- converting (3, 33, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 33 in base 2
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 0, 1]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 0, 0, 0, 0, 1, 2, 2]
+ --- Converting  base Y number [3, 1, 0, 0, 0, 0, 1, 2, 2] to configuration notation
+ --- Result =  [4, 0, 0, 0, 0, 4, 2, 2]
+--- Retained value to add in file: [4, 0, 0, 0, 0, 4, 2, 2], indice :  (3, 33, 12)
+ --- converting (3, 34, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 34 in base 2
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 1, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 0, 0, 0, 1, 0, 2, 2]
+ --- Converting  base Y number [3, 1, 0, 0, 0, 1, 0, 2, 2] to configuration notation
+ --- Result =  [4, 0, 0, 0, 4, 0, 2, 2]
+--- Retained value to add in file: [4, 0, 0, 0, 4, 0, 2, 2], indice :  (3, 34, 12)
+ --- converting (3, 34, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 34 in base 2
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 1, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 0, 0, 0, 1, 0, 2, 2]
+ --- Converting  base Y number [3, 1, 0, 0, 0, 1, 0, 2, 2] to configuration notation
+ --- Result =  [4, 0, 0, 0, 4, 0, 2, 2]
+--- Retained value to add in file: [4, 0, 0, 0, 4, 0, 2, 2], indice :  (3, 34, 12)
+ --- converting (3, 34, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 34 in base 2
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 0, 1, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 0, 0, 0, 1, 0, 2, 2]
+ --- Converting  base Y number [3, 1, 0, 0, 0, 1, 0, 2, 2] to configuration notation
+ --- Result =  [4, 0, 0, 0, 4, 0, 2, 2]
+--- Retained value to add in file: [4, 0, 0, 0, 4, 0, 2, 2], indice :  (3, 34, 12)
+ --- converting (3, 36, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 36 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 1, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 0, 0, 1, 0, 0, 2, 2]
+ --- Converting  base Y number [3, 1, 0, 0, 1, 0, 0, 2, 2] to configuration notation
+ --- Result =  [4, 0, 0, 4, 0, 0, 2, 2]
+--- Retained value to add in file: [4, 0, 0, 4, 0, 0, 2, 2], indice :  (3, 36, 12)
+ --- converting (3, 36, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 36 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 1, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 0, 0, 1, 0, 0, 2, 2]
+ --- Converting  base Y number [3, 1, 0, 0, 1, 0, 0, 2, 2] to configuration notation
+ --- Result =  [4, 0, 0, 4, 0, 0, 2, 2]
+--- Retained value to add in file: [4, 0, 0, 4, 0, 0, 2, 2], indice :  (3, 36, 12)
+ --- converting (3, 36, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 36 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 0, 1, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 0, 0, 1, 0, 0, 2, 2]
+ --- Converting  base Y number [3, 1, 0, 0, 1, 0, 0, 2, 2] to configuration notation
+ --- Result =  [4, 0, 0, 4, 0, 0, 2, 2]
+--- Retained value to add in file: [4, 0, 0, 4, 0, 0, 2, 2], indice :  (3, 36, 12)
+ --- converting (3, 40, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 40 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 1, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 0, 1, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [3, 1, 0, 1, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [4, 0, 4, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [4, 0, 4, 0, 0, 0, 2, 2], indice :  (3, 40, 12)
+ --- converting (3, 40, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 40 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 1, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 0, 1, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [3, 1, 0, 1, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [4, 0, 4, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [4, 0, 4, 0, 0, 0, 2, 2], indice :  (3, 40, 12)
+ --- converting (3, 40, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 40 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- result  [1, 0, 1, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 0, 1, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [3, 1, 0, 1, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [4, 0, 4, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [4, 0, 4, 0, 0, 0, 2, 2], indice :  (3, 40, 12)
+ --- converting (3, 48, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 48 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 1 to result
+ --- result  [1, 1, 0, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 1, 0, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [3, 1, 1, 0, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [4, 4, 0, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [4, 4, 0, 0, 0, 0, 2, 2], indice :  (3, 48, 12)
+ --- converting (3, 48, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 48 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 1 to result
+ --- result  [1, 1, 0, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 1, 0, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [3, 1, 1, 0, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [4, 4, 0, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [4, 4, 0, 0, 0, 0, 2, 2], indice :  (3, 48, 12)
+ --- converting (3, 48, 12)  to base Y  (  base 3 on 2 bits, 2 on 6 bits and 4 on 2 bits)
+ --- converting 3 in base 4
+ --- result  [3]
+ --- converting 48 in base 2
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 0 to result
+ --- appending 1 to result
+ --- appending 1 to result
+ --- result  [1, 1, 0, 0, 0, 0]
+ --- converting 12 in base 5
+ --- appending 2 to result
+ --- appending 2 to result
+ --- result  [2, 2]
+ --- Result =  [3, 1, 1, 0, 0, 0, 0, 2, 2]
+ --- Converting  base Y number [3, 1, 1, 0, 0, 0, 0, 2, 2] to configuration notation
+ --- Result =  [4, 4, 0, 0, 0, 0, 2, 2]
+--- Retained value to add in file: [4, 4, 0, 0, 0, 0, 2, 2], indice :  (3, 48, 12)
+--- Number of configurations generated =  60
+--- Outpuf file =  /mnt/c/Users/lavoi/opportunist_task_on_android/scripts_valuable_files/experiment_automatization/input_configurations_file.csv
